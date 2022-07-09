@@ -188,6 +188,10 @@
     </Compile>
     <Compile Include="Model\Contact\BusinessContact.cs" />
     <Compile Include="Model\Contact\Contact.cs" />
+    <Compile Include="Model\Tax2\ICountryTaxCalculator.cs" />
+    <Compile Include="Model\Tax2\TaxCalculatorForIN2.cs" />
+    <Compile Include="Model\Tax2\TaxCalculatorForUK2.cs" />
+    <Compile Include="Model\Tax2\TaxCalculatorForUS2.cs" />
     <Compile Include="Model\Tax\CountryTaxCalculator.cs" />
     <Compile Include="Model\Contact\PersonalContact.cs" />
     <Compile Include="Model\Contact\ProfessionalContact.cs" />
